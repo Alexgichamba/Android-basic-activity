@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Activity App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pesa">Mpesa</string>
+    <string name="toka">Exit</string>
+</resources>
